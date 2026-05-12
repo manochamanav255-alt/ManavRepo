@@ -3,9 +3,9 @@
 Hands-on implementations from an agentic AI curriculum covering LangGraph, 
 OpenAI Agents SDK, CrewAI, and production evaluation patterns.
 
-## Completed Labs
+
 | Topic | Frameworks Used |
-|-----|-------|-----------------|
+|-------|-----------------|
 | Agent Evaluation Suite | LangGraph, LangChain, LLM-as-Judge |
 
 ##  Agent Eval Suite
